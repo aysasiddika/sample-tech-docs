@@ -13,6 +13,8 @@ How will your technical documentation help people use you’re Feature and achie
 # Operations
 In actionable, easy to understand language, describe the different features or elements of your Feature and how to use them. Feel free to add code snippets, embed videos, files, images and checklists in these sections where applicable.
 
+![My image alt text](finger1.png)
+
 | Resource Name | Resource Type | Operation | Remarks | 
 |---|---|---|---|
 | R1 | API | GET | Some Desc
