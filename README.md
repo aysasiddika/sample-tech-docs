@@ -1,2 +1,16 @@
-# sample-tech-docs
-Product Technical Documentation Sample
+# Table of Contents
+1. [Module-1](module-1/readme.md)
+   * [Feature-1](module-1/feature-1/readme.md)
+   * [Feature-2](module-1/feature-2/readme.md)
+   * [Feature-3](module-1/feature-3/readme.md)
+   * [Feature-4](module-1/feature-4/readme.md)
+   * [Feature-5](module-1/feature-5/readme.md)
+   * [Feature-6](module-1/feature-6/readme.md)
+2. [Module-2](module-2/readme.md)
+   * [Feature-1](module-2/feature-1/readme.md)
+   * [Feature-2](module-2/feature-2/readme.md)
+   * [Feature-3](module-2/feature-3/readme.md)
+3. [Module-3](module-3/readme.md)
+   * [Feature-1](module-3/feature-1/readme.md)
+   * [Feature-2](module-3/feature-2/readme.md)
+   * [Feature-3](module-3/feature-3/readme.md)
