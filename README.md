@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">ERA e-KYC</h1>
 
-# Table of Contents
+## Table of Contents
 1. [Module-1](module-1/README.md)
    * [Feature-1](module-1/feature-1/README.md)
    * [Feature-2](module-1/feature-2/README.md)
