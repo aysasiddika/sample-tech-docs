@@ -19,7 +19,7 @@ Capture Finger To verify
 
 ![Capture Finger](images/ChangeV2.png)
 ### Step-3
-After successfully verifying customer finger
+Minimum Score for verify is set to 80
 ![After successfully enrolling customer finger](images/ChangeV3.png)
 ### Step-4
 After successfully verifying customer finger
