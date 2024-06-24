@@ -15,12 +15,12 @@ Click enroll buttom and new widget of Biocore will apear where customer one fing
 Click Enroll Button
 ![Click Enroll Button](images/ChangeE1.png)
 ### Step-2
-Capture Finger
+Click on a finger and Capture the finger to Enroll
 ![Capture Finger](images/ChangeE2.png)
 ### Step-3
 Minimum Score for enroll is set to 80
 ![After successfully enrolling customer finger](images/ChangeE3.png)
-### Step-3
+### Step-4
 After successfully enrolling customer finger
 ![After successfully enrolling customer finger](images/ChangeE4.png)
 
