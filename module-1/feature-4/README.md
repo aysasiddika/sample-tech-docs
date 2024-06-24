@@ -13,14 +13,17 @@ Click verify button and new widget of Biocore will apear where customer finger i
 
 ### Step -1
 Click Verify Button
-![Click Enroll Button](images/Verify1.png)
+![Click Enroll Button](images/ChangeV1.png)
 ### Step-2
 Capture Finger To verify
 
-![Capture Finger](images/Verify2.png)
+![Capture Finger](images/ChangeV2.png)
 ### Step-3
 After successfully verifying customer finger
-![After successfully enrolling customer finger](images/Verify3.png)
+![After successfully enrolling customer finger](images/ChangeV3.png)
+### Step-4
+After successfully verifying customer finger
+![After successfully enrolling customer finger](images/ChangeV4.png)
 
 
 | Resource Name | Resource Type | Operation | Remarks | 
