@@ -16,6 +16,7 @@ Click Verify Button
 ![Click Enroll Button](images/Verify1.png)
 ### Step-2
 Capture Finger To verify
+
 ![Capture Finger](images/Verify2.png)
 ### Step-3
 After successfully verifying customer finger
