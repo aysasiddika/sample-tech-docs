@@ -1,7 +1,7 @@
 
 | Product Name | Product Version | Module Name | Feature Name | Update Date | Updated By
 |---|---|---|---|---|---|
-| eBiocore | 1.0 | Enroll | Customer Change Information (Finger Verify) | 24/06/2024 | Aysa Siddika
+| eBiocore | 1.0 | Verify | Customer Change Information (Finger Verify) | 24/06/2024 | Aysa Siddika
 
 ***
 
