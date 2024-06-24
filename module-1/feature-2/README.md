@@ -28,6 +28,7 @@ After successfully verifying customer finger
 | TOKEN | API | GET | Get Access Token to call Verify API
 | Verify | API | POST | Verify the customer in new system with online matching
 | f106_page_83.sql | Apex Page | Capture Finger | Show the biocore widget to capture finger of customer to verify
+| f106_page_84.sql | Apex Page | Capture Finger | Show the old system to capture finger of customer to verify
 |f107_page_500.sql|Apex Page | Customer Creation | Customer point information getting
 |f107_page_504.sql|Apex Page | Capture Customer Photo | Customer point information getting
 |f107_page_505.sql|Apex Page | Finger Verify | Customer point information getting and new or old finger Verify made available according to setup. 
