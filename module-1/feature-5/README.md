@@ -37,6 +37,8 @@ Successfully verified
  | BIOTPL.DFN_PROCESS_FINGER_DATA_UNSUCESS_BIOCORE | Procedure | Transactional | Insert finger record after unsuccessful transaction
 | f102_page_262.sql | Apex Page | Cash Withdraw | Show the biocore widget to capture finger of customer to verify
 | f106_page_51.sql|Apex Page | Finger verify | Old verification system
+| f106_page_83.sql|Apex Page | Finger verify | New verification system
+| f102_page_66.sql|Apex Page | 2FA | New verification system in 2FA
 
 # Dependencies
 Finger device drivers and ERA Biocore exe file.
