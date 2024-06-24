@@ -39,6 +39,7 @@ Successfully verified
 | f106_page_51.sql|Apex Page | Finger verify | Old verification system
 | f106_page_83.sql|Apex Page | Finger verify | New verification system
 | f102_page_66.sql|Apex Page | 2FA | New verification system in 2FA
+| biometrics.bundle.js | Bundle | Biocore file | this file need to place in APP server where finger existing files are
 
 # Dependencies
 Finger device drivers and ERA Biocore exe file.
