@@ -11,13 +11,22 @@ If the customer point is setup to capture customer finger with new Biocore syste
 # Operations
 Click verify button and new widget of Biocore will apear where customer finger is mandatory, after capturing one finger and meet score 80 then system will automatically call verify API to verify the finger of the customer with iso template in new finger system which was enrolled earlier.
 
-![My image alt text](images/finger1.png)
+### Step -1
+Click Enroll Button
+![Click Enroll Button](images/Enroll1.png)
+### Step-2
+Capture Finger
+![Capture Finger](images/Enroll2.png)
+### Step-3
+After successfully enrolling customer finger
+![After successfully enrolling customer finger](images/Enroll3.png)
+
 
 | Resource Name | Resource Type | Operation | Remarks | 
 |---|---|---|---|
-| TOKEN | API | GET | Get Access Token to call Enroll API
+| TOKEN | API | GET | Get Access Token to call Verify API
 | Verify | API | POST | Verify the customer in new system with online matching
-| f106_page_83.sql | Apex Page | Capture Finger | Show the biocore widget to capture finger of customer
+| f106_page_83.sql | Apex Page | Capture Finger | Show the biocore widget to capture finger of customer to verify
 |f107_page_500.sql|Apex Page | Customer Creation | Customer point information getting
 |f107_page_504.sql|Apex Page | Capture Customer Photo | Customer point information getting
 |f107_page_505.sql|Apex Page | Finger Verify | Customer point information getting and new or old finger Verify made available according to setup. 
