@@ -1,4 +1,5 @@
 
+
 | Product Name | Product Version | Module Name | Feature Name | Update Date | Updated By
 |---|---|---|---|---|---|
 | eBiocore | 1.0 | Verify | Transaction Module | 24/06/2024 | Aysa Siddika
@@ -27,7 +28,15 @@ Successfully verified
 | TOKEN | API | GET | Get Access Token to call Verify API
 | Verify | API | POST | Verify the customer in new system with online matching
 | EMOB.DPK_FIN_VERIFICATION_NEW | Package | Finger show | Finger showing process
+| EMOIB.DPK_FIN_VERIFICATION_NEW | Package | Finger show | Finger showing process
+|EMOB.AGENT_TRANSACTION_2FA.CUST_AGNT_VERIFICATION_SHOW | Package | Finger show | Finger showing process for 2FA
+|EMOB.PKG_VALIDATION.PRC_CUST_VALIDATION|  Package | Finger checking | Customer review
+|EMOB.CALL_BIOCORE_API | Package | API Calling | New system API call 
+| EMOB.CAP_OTP_BIOCORE | Procedure | OTP | 2FA for re-enroll
+| BIOTPL.DFN_PROCESS_FINGER_DATA_BIOCORE | Procedure | Transactional | Insert finger record after successful transaction
+ | BIOTPL.DFN_PROCESS_FINGER_DATA_UNSUCESS_BIOCORE | Procedure | Transactional | Insert finger record after unsuccessful transaction
 | f102_page_262.sql | Apex Page | Cash Withdraw | Show the biocore widget to capture finger of customer to verify
-| f107_page_268.sql|Apex Page | Customer Creation | Customer point information getting
+| f106_page_51.sql|Apex Page | Finger verify | Old verification system
+
 # Dependencies
 Finger device drivers and ERA Biocore exe file.
