@@ -18,7 +18,7 @@ Click Enroll Button
 Capture Finger
 ![Capture Finger](images/ChangeE2.png)
 ### Step-3
-After successfully enrolling customer finger
+Minimum Score for enroll is set to 80
 ![After successfully enrolling customer finger](images/ChangeE3.png)
 ### Step-3
 After successfully enrolling customer finger
