@@ -26,7 +26,8 @@ Successfully verified
 |---|---|---|---|
 | TOKEN | API | GET | Get Access Token to call Verify API
 | Verify | API | POST | Verify the customer in new system with online matching
+| EMOB.DPK_FIN_VERIFICATION_NEW | Package | Finger show | Finger showing process
 | f102_page_262.sql | Apex Page | Cash Withdraw | Show the biocore widget to capture finger of customer to verify
-|f107_page_268.sql|Apex Page | Customer Creation | Customer point information getting
+| f107_page_268.sql|Apex Page | Customer Creation | Customer point information getting
 # Dependencies
 Finger device drivers and ERA Biocore exe file.
