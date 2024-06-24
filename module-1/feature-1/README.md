@@ -12,10 +12,13 @@ If the customer point is setup to capture customer finger with new Biocore syste
 # Operations
 Click enroll buttom and new widget of Biocore will apear where customer one finger is mandatory, after capturing one finger and meet score 80 then system will automatically call enroll API to enroll the finger of the customer with raw data and iso template in new finger system.
 ### Step -1
+Click Enroll Button
 ![Click Enroll Button](images/Enroll1.png)
 ### Step-2
+Capture Finger
 ![Capture Finger](images/Enroll2.png)
 ### Step-3
+After successfully enrolling customer finger
 ![After successfully enrolling customer finger](images/Enroll3.png)
 
 | Resource Name | Resource Type | Operation | Remarks | 
