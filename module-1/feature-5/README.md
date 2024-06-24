@@ -40,6 +40,9 @@ Successfully verified
 | f106_page_83.sql|Apex Page | Finger verify | New verification system
 | f102_page_66.sql|Apex Page | 2FA | New verification system in 2FA
 | biometrics.bundle.js | Bundle | Biocore file | this file need to place in APP server where finger existing files are
+| BIOTPL.FP_CASH_DEPOSIT | Table | transaction history | add BIO_CORE_LOG_ID column
+| BIOTPL.FP_CASH_WITHDRAWL  | Table | transaction history | add BIO_CORE_LOG_ID column
+| BIOTPL.FP_CASH_WITHDRAWL_UNSUCCESS_LOG  | Table | transaction history | add BIO_CORE_LOG_ID column
 
 # Dependencies
 Finger device drivers and ERA Biocore exe file.
