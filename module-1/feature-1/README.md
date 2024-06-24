@@ -1,28 +1,31 @@
+
+
 | Product Name | Product Version | Module Name | Feature Name | Update Date | Updated By
 |---|---|---|---|---|---|
-| eFS | 2.0 | Transaction | Cash Withdraw | 10/09/2023 | Nahid Chowdhury
+| eBiocore | 1.0 | Enroll | Customer Registration (Finger Enroll) | 24/06/2024 | Aysa Siddika
 
 ***
 
 # Objective
-Provide a brief summary covering what your feature is, the context behind its development and release and what it does. Touch on what documentation is available in your template to help your reader familiarize themselves with it. 
-What does your Feature do? 
-How should it be used? 
-How will your technical documentation help people use you’re Feature and achieve those goals?
+If the customer point is setup to capture customer finger with new Biocore system then new widget will apear in customer finger enrollment.
 
 # Operations
-In actionable, easy to understand language, describe the different features or elements of your Feature and how to use them. Feel free to add code snippets, embed videos, files, images and checklists in these sections where applicable.
-
-![My image alt text](images/finger1.png)
+Click enroll buttom and new widget of Biocore will apear where customer one finger is mandatory, after capturing one finger and meet score 80 then system will automatically call enroll API to enroll the finger of the customer with raw data and iso template in new finger system.
+### Step -1
+![Click Enroll Button](images/Enroll1.png)
+### Step-2
+![Capture Finger](images/Enroll2.png)
+### Step-3
+![After successfully enrolling customer finger](images/Enroll3.png)
 
 | Resource Name | Resource Type | Operation | Remarks | 
 |---|---|---|---|
-| R1 | API | GET | Some Desc
-| R2 | API | POST | Some Desc
-| R3 | API | PUT | Some Desc
-
+| TOKEN | API | GET | Get Access Token to call Enroll API
+| Enroll | API | POST | Enroll the customer in new system with online matching
+| f106_page_81.sql | Apex Page | Capture Finger | Show the biocore widget to capture finger of customer
+|f107_page_500.sql|Apex Page | Customer Creation | Customer point information getting
+|f107_page_504.sql|Apex Page | Capture Customer Photo | Customer point information getting
+|f107_page_505.sql|Apex Page | Finger Enroll | Customer point information getting and new or old finger enroll made available according to setup. 
 # Dependencies
-Dependency with operation in this solution or others API that could be change/hampered and the thing that must be kept under observation and not left unnoticed.
+Finger device drivers and ERA Biocore exe file.
 
-# Additional Resources
-If there are any additional resources available that might come in handy (for example, videos, tutorials, knowledge bases, forums) be sure to link them here for easy access when questions arise. 
