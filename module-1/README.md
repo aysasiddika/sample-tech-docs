@@ -27,7 +27,8 @@ After successfully calling delete API finger deletion successful.
 |---|---|---|---|
 | TOKEN | API | GET | Get Access Token to call Verify API
 | DELETE | API | POST | Delete finger in new system
-| f106_page_83.sql | Apex Page | Delete Finger | Delete finger from new and old system.
+| f106_page_143.sql | Apex Page | Delete Finger | Delete finger from new and old system.
+|EMOB.CALL_BIOCORE_API | Package | Finger Delete API | Delete finger from new system
 
 # Dependencies
 Finger device drivers and ERA Biocore exe file.
