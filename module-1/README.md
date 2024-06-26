@@ -13,6 +13,7 @@ Click delete button and confirm if you want to delete finger, after clicking OK 
 
 ### Step -1
 Go to system module and under configuration click on Cancel Bio Metric Enrollment Menu.
+
 ![Click Enroll Button](images/Delete1.png)
 ### Step-2
 Select specific customer or agent then click delete button and confirm by clicking ok to delete the finger.
@@ -20,6 +21,7 @@ Select specific customer or agent then click delete button and confirm by clicki
 ![Capture Finger](images/Delete2.png)
 ### Step-3
 After successfully calling delete API finger deletion successful.
+
 ![After successfully enrolling customer finger](images/Delete3.png)
 
 
