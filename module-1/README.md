@@ -13,22 +13,14 @@ Click delete button and confirm if you want to delete finger, after clicking OK 
 
 ### Step -1
 Click Verify Button
-![Click Enroll Button](images/ChangeV1.png)
+![Click Enroll Button](images/DELETE1.png)
 ### Step-2
 Capture Finger To verify
 
-![Capture Finger](images/ChangeV2.png)
+![Capture Finger](images/DELETE2.png)
 ### Step-3
 Minimum Score for verify is set to 80
-![After successfully enrolling customer finger](images/ChangeV3.png)
-
-### Step-4
-Click Reload button and Capture Finger To verify
-
-![Capture Finger](images/ChangeV2.png)
-### Step-5
-After successfully verifying customer finger
-![After successfully enrolling customer finger](images/ChangeV4.png)
+![After successfully enrolling customer finger](images/DELETE3.png)
 
 
 | Resource Name | Resource Type | Operation | Remarks | 
