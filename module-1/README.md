@@ -26,8 +26,8 @@ After successfully calling delete API finger deletion successful.
 | Resource Name | Resource Type | Operation | Remarks | 
 |---|---|---|---|
 | TOKEN | API | GET | Get Access Token to call Verify API
-| Verify | API | POST | Verify the customer in new system with online matching
-| f106_page_83.sql | Apex Page | Capture Finger | Show the biocore widget to capture finger of customer to verify
-|f107_page_268.sql|Apex Page | Customer Creation | Customer point information getting
+| DELETE | API | POST | Delete finger in new system
+| f106_page_83.sql | Apex Page | Delete Finger | Delete finger from new and old system.
+
 # Dependencies
 Finger device drivers and ERA Biocore exe file.
