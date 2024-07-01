@@ -15,16 +15,16 @@ Go to cash withdraw and click on verify customer finger.
 
 ![Click Enroll Button](images/m1.png)
 ### Step-2
-Select specific customer or agent then click delete button and confirm by clicking ok to delete the finger.
+After verification of old customer new Enroll widget will open.
 
 ![Capture Finger](images/m2.png)
 ### Step-3
-After successfully calling delete API finger deletion successful.
+After successfully verifying the finger second time OTP will be sent.
 
 ![After successfully enrolling customer finger](images/m3.png)
 
 ### Step-4
-After successfully calling ENROLL API finger enroll successful.
+After giving OTP and successfully calling ENROLL API finger enroll successful.
 
 ![After successfully enrolling customer finger](images/m4.png)
 
