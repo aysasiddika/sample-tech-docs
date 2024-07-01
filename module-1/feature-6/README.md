@@ -33,9 +33,12 @@ After giving OTP and successfully calling ENROLL API finger enroll successful.
 | Resource Name | Resource Type | Operation | Remarks | 
 |---|---|---|---|
 | TOKEN | API | GET | Get Access Token to call Verify API
-| DELETE | API | POST | Delete finger in new system
-| f106_page_143.sql | Apex Page | Delete Finger | Delete finger from new and old system.
-|EMOB.CALL_BIOCORE_API | Package | Finger Delete API | Delete finger from new system
+| VERIFY | API | POST | Verify finger in old system
+|ENROLL | API |  POST | Enroll finger in new system
+| f102_page_262.sql | Apex Page | Cash Withdraw | Migrate finger from old to new system.
+| f105_page_262.sql | Apex Page | Cash Withdraw | Migrate finger from old to new system.
+| f102_page_324.sql | Apex Page | Cash Withdraw | Migrate finger from old to new system.
+| f102_page_328.sql | Apex Page | Cash Withdraw | Migrate finger from old to new system.
 
 # Dependencies
 Finger device drivers and ERA Biocore exe file.
