@@ -8,7 +8,7 @@
 # Objective
 Old system customer finger data migrate to new system after verification with OTP & old finger.
 # Operations
-Click delete button and confirm if you want to delete finger, after clicking OK delete API will be called and delete the finger from new system.
+Click verify button and give finger of customer. After verification of finger new enroll widget will open. Customer will give finger again and after second time verification OTP will be sent to Customer and after giving OTP customer finger will be enrolled in new system.
 
 ### Step -1
 Go to system module and under configuration click on Cancel Bio Metric Enrollment Menu.
