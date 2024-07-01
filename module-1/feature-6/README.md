@@ -11,17 +11,23 @@ Old system customer finger data migrate to new system after verification with OT
 Click verify button and give finger of customer. After verification of finger new enroll widget will open. Customer will give finger again and after second time verification OTP will be sent to Customer and after giving OTP customer finger will be enrolled in new system.
 
 ### Step -1
-Go to system module and under configuration click on Cancel Bio Metric Enrollment Menu.
+Go to cash withdraw and click on verify customer finger.
 
-![Click Enroll Button](images/Delete1.png)
+![Click Enroll Button](images/m1.png)
 ### Step-2
 Select specific customer or agent then click delete button and confirm by clicking ok to delete the finger.
 
-![Capture Finger](images/Delete2.png)
+![Capture Finger](images/m2.png)
 ### Step-3
 After successfully calling delete API finger deletion successful.
 
-![After successfully enrolling customer finger](images/Delete3.png)
+![After successfully enrolling customer finger](images/m3.png)
+
+### Step-4
+After successfully calling ENROLL API finger enroll successful.
+
+![After successfully enrolling customer finger](images/m4.png)
+
 
 
 | Resource Name | Resource Type | Operation | Remarks | 
